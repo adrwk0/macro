@@ -1,0 +1,137 @@
+<Root>
+	<DefaultMacro>
+		<Major></Major>
+		<Description></Description>
+		<Comment></Comment>
+		<GUIOption>
+			<RepeatType>2</RepeatType>
+		</GUIOption>
+		<KeyUp>
+			<Syntax></Syntax>
+		</KeyUp>
+		<KeyDown>
+			<Syntax>MoveTo 871 385
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveTo 955 632
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 6 ms
+MoveTo 1013 735
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 6 ms
+MoveTo 790 690
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveTo 509 516
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+MoveTo 507 601
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveTo 512 212
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 512 516
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+
+</Syntax>
+		</KeyDown>
+		<Software>?
+</Software>
+	</DefaultMacro>
+</Root>
